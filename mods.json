@@ -1,0 +1,52 @@
+{
+  "mods": [
+    {
+      "name": "!mixinbooter-7.0.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/!mixinbooter-7.0.jar",
+      "sha1": "3e9b7e2cfae2532de3d823c9e5368176334f8726",
+      "size": 1063952
+    },
+    {
+      "name": "AsmodeusCore-1.12.2-0.0.31.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/AsmodeusCore-1.12.2-0.0.31.jar",
+      "sha1": "6f108df1a21ed39afd3cc85f8372820596624e78",
+      "size": 4118531
+    },
+    {
+      "name": "CreativeCore_v1.10.57_mc1.12.2.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/CreativeCore_v1.10.57_mc1.12.2.jar",
+      "sha1": "1f9cda61f7f5762d43a7385c197a695a8d351196",
+      "size": 1288232
+    },
+    {
+      "name": "Galacticraft-1.12.2-4.0.4.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/Galacticraft-1.12.2-4.0.4.jar",
+      "sha1": "873aee087e74df592267a1ddd2b2173455193fb1",
+      "size": 15666879
+    },
+    {
+      "name": "GalaxySpace-1.12.2-2.0.19.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/GalaxySpace-1.12.2-2.0.19.jar",
+      "sha1": "50accb416b18d8935989e28cda0849080fdccc6a",
+      "size": 10027898
+    },
+    {
+      "name": "mods.json",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/mods.json",
+      "sha1": "a2e3aaacc69c2c281dbdc1ff1876df9d4d5c3f0d",
+      "size": 1657
+    },
+    {
+      "name": "More-Planets-1.12.2-2.3.0-GC4.0.4.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/More-Planets-1.12.2-2.3.0-GC4.0.4.jar",
+      "sha1": "f3898d1f5a14e7fc57b783d064734ac191c6e668",
+      "size": 6018296
+    },
+    {
+      "name": "SteveKunG\u0027s-Lib-1.12.2-1.1.11.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/mods/SteveKunG\u0027s-Lib-1.12.2-1.1.11.jar",
+      "sha1": "e11b116343b5aa12b6d6e5981cfc43be18f0e9ec",
+      "size": 108209
+    }
+  ]
+}
