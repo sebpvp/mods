@@ -2,13 +2,13 @@
   "mods": [
     {
       "name": "!mixinbooter-7.0.jar",
-      "downloadURL": "https://github.com/sebpvp/mods/mods/!mixinbooter-7.0.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/!mixinbooter-7.0.jar",
       "sha1": "3e9b7e2cfae2532de3d823c9e5368176334f8726",
       "size": 1063952
     },
     {
       "name": "AsmodeusCore-1.12.2-0.0.31.jar",
-      "downloadURL": "https://github.com/sebpvp/mods/mods/AsmodeusCore-1.12.2-0.0.31.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/AsmodeusCore-1.12.2-0.0.31.jar",
       "sha1": "6f108df1a21ed39afd3cc85f8372820596624e78",
       "size": 4118531
     },
