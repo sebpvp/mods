@@ -41,6 +41,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/SteveKunG's-Lib-1.12.2-1.1.11.jar",
       "sha1": "e11b116343b5aa12b6d6e5981cfc43be18f0e9ec",
       "size": 108209
+    },
+    {
+      "name": "jei_1.12.2-4.16.1.302.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/jei_1.12.2-4.16.1.302.jar",
+      "sha1": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8",
+      "size": 653210
     }
   ]
 }
