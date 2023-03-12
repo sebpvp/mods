@@ -59,6 +59,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Xaeros_Minimap_23.3.0_Forge_1.12.jar",
       "sha1": "efaead630af8a0a58f4b435be89c942fdae188ca",
       "size": 1500003
+    },
+    {
+      "name": "MouseTweaks-2.10-mc1.12.2.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/MouseTweaks-2.10-mc1.12.2.jar",
+      "sha1": "0d3b0589021905b2eab8ba93805e9fdef463288e",
+      "size": 75170
     }
   ]
 }
