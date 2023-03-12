@@ -83,6 +83,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Chisel-MC1.12.2-1.0.2.45.jar",
       "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
       "size": 4755282
+    },
+    {
+      "name": "MCA-1.12.2-6.1.0-universal.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/MCA-1.12.2-6.1.0-universal.jar",
+      "sha1": "3408a81dc02deea710282835d9b47109f2c06718",
+      "size": 2459965
     }
   ]
 }
