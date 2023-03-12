@@ -65,6 +65,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/MouseTweaks-2.10-mc1.12.2.jar",
       "sha1": "0d3b0589021905b2eab8ba93805e9fdef463288e",
       "size": 75170
+    },
+    {
+      "name": "Neat_1.12.2_1.4_17.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Neat%2B1.4-17.jar",
+      "sha1": "831c286d99fe78503e966ef80ad27f54ae6a81cb",
+      "size": 18527
     }
   ]
 }
