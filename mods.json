@@ -89,6 +89,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/MCA-1.12.2-6.1.0-universal.jar",
       "sha1": "3408a81dc02deea710282835d9b47109f2c06718",
       "size": 2459965
+    },
+    {
+      "name": "ExtraPlanets-1.12.2-0.7.5.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/ExtraPlanets-1.12.2-0.7.5.jar",
+      "sha1": "068bbd372c5bf578a3ef661d93788639b0f8ebfa",
+      "size": 8693329
     }
   ]
 }
