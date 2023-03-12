@@ -53,6 +53,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/OptiFine_1.12.2_HD_U_G5.jar",
       "sha1": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
       "size": 2669107
+    },
+    {
+      "name": "Xaeros_Minimap_23.3.0_Forge_1.12.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Xaeros_Minimap_23.3.0_Forge_1.12.jar",
+      "sha1": "efaead630af8a0a58f4b435be89c942fdae188ca",
+      "size": 1500003
     }
   ]
 }
