@@ -71,6 +71,18 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Neat%2B1.4-17.jar",
       "sha1": "831c286d99fe78503e966ef80ad27f54ae6a81cb",
       "size": 18527
+    },
+    {
+      "name": "CTM-MC1.12.2-1.0.2.31.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/CTM-MC1.12.2-1.0.2.31.jar",
+      "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
+      "size": 199045
+    },
+   {
+      "name": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha1": "d378cee9195841ea78bb9800f543d718ef2c60ef",
+      "size": 4755282
     }
   ]
 }
