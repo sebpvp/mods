@@ -113,6 +113,12 @@
       "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/backpacked-1.4.3-1.12.2.jar",
       "sha1": "e16f5eaeff449847b0c7b1c5767d4a9ec6c29969",
       "size": 57517
+    },
+    {
+      "name": "curios-forge-1.16.5-4.0.8.2.jar",
+      "downloadURL": "https://github.com/sebpvp/mods/raw/main/mods/curios-forge-1.16.5-4.0.8.2.jar",
+      "sha1": "25df638beedfd5a339eaeeea15a93d3708dc4116",
+      "size": 277848
     }
   ]
 }
